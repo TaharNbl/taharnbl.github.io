@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. AI Research Scientist @ EDF Lab.
+subtitle: <a href='#'>PhD, AI Research Scientist</a> @ EDF Lab.
 
 profile:
   align: right
