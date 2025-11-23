@@ -30,16 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervision/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-appointed-expert-research-scientist-edf-lab",
+        },{id: "news-i-was-appointed-expert-research-scientist-edf-lab",
           title: 'I was appointed Expert Research Scientist @ EDF Lab',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-the-ecml-2025-aaltd-workshop-oral-presentation",
-          title: 'Paper accepted at the ECML 2025 AALTD Workshop (Oral presentation).',
+          title: 'Paper accepted at the ECML 2025 AALTD Workshop (Oral presentation)',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-the-neurips-2025-bert2s-workshop-2nd-cfp",
           title: 'Paper accepted at the NeurIPS 2025 BERT2S Workshop (2nd CFP)',
