@@ -3,8 +3,8 @@ layout: page
 title: synthetic data
 description: high-resolution electricity consumption in open data
 img: assets/img/open_data_1.jpg
-importance: 1
-category: open
+importance: 2
+category: research
 related_publications: true
 ---
 
