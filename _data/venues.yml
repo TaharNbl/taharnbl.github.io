@@ -7,3 +7,13 @@
 
 "Vision":
   color: "#009f36"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#B31B1B"
+
+"fphys":
+  url: "https://www.frontiersin.org/journals/physics"
+
+"fceng":
+  url: "https://www.frontiersin.org/journals/chemical-engineering"
