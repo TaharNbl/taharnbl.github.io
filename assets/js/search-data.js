@@ -35,8 +35,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-appointed-expert-research-scientist-edf-r-amp-amp-d",
-          title: 'I was appointed Expert Research Scientist @ EDF R&amp;amp;amp;D',
+            },},{id: "news-i-was-appointed-expert-research-scientist-edf-lab",
+          title: 'I was appointed Expert Research Scientist @ EDF Lab',
           description: "",
           section: "News",},{id: "news-paper-accepted-at-the-ecml-2025-aaltd-workshop-oral-presentation",
           title: 'Paper accepted at the ECML 2025 AALTD Workshop (Oral presentation).',
