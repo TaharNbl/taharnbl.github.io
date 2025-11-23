@@ -58,6 +58,11 @@ ninja.data = [{
           description: "high-resolution electricity consumption in open data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
+            },},{id: "projects-time-indexed-tsfms",
+          title: 'time-indexed TSFMs',
+          description: "",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2_project/";
             },},{
         id: 'social-email',
         title: 'email',
