@@ -35,25 +35,23 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-was-appointer-expert-research-scientist-edf-r-amp-amp-d",
-          title: 'I was appointer Expert Research Scientist @ EDF R&amp;amp;amp;D.',
+            },},{id: "news-i-was-appointed-expert-research-scientist-edf-r-amp-amp-d",
+          title: 'I was appointed Expert Research Scientist @ EDF R&amp;amp;amp;D',
           description: "",
-          section: "News",},{id: "news-announcement-2",
-          title: 'Announcement_2',
+          section: "News",},{id: "news-paper-accepted-at-the-ecml-2025-aaltd-workshop-oral-presentation",
+          title: 'Paper accepted at the ECML 2025 AALTD Workshop (Oral presentation).',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-paper-accepted-at-the-neurips-2025-bert2s-workshop-2nd-cfp",
-          title: 'Paper accepted at the NeurIPS 2025 BERT2S Workshop (2nd CFP).',
+          section: "News",},{id: "news-paper-accepted-at-the-neurips-2025-bert2s-workshop-2nd-cfp",
+          title: 'Paper accepted at the NeurIPS 2025 BERT2S Workshop (2nd CFP)',
           description: "",
           section: "News",},{id: "projects-synthetic-data",
           title: 'synthetic data',
           description: "high-resolution electricity consumption in open data",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-time-indexed-tsfms",
-          title: 'time-indexed TSFMs',
-          description: "",
+            },},{id: "projects-tsfms",
+          title: 'TSFMs',
+          description: "time-indexed foundation models",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{
