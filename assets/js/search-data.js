@@ -30,28 +30,21 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/supervision/";
           },
-        },{id: "nav-cv",
-          title: "cv",
-          description: "This is a description of the page. You can modify it in &#39;_pages/cv.md&#39;. You can also change or remove the top pdf download button.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/cv/";
-          },
         },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-i-was-appointer-expert-research-scientist-edf-r-amp-amp-d",
+          title: 'I was appointer Expert Research Scientist @ EDF R&amp;amp;amp;D.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-announcement-2",
+          title: 'Announcement_2',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-paper-accepted-at-the-neurips-2025-bert2s-workshop-2nd-cfp",
+          title: 'Paper accepted at the NeurIPS 2025 BERT2S Workshop (2nd CFP).',
           description: "",
           section: "News",},{id: "projects-synthetic-data",
           title: 'synthetic data',
