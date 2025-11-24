@@ -26,13 +26,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-> Short Bio
+<h2>
+  <a href='#' style="color: inherit">short bio</a>
+</h2>
 
 I am currently an AI Research Scientist at EDF Lab Saclay since 2021 and was nominated an **EDF Lab Expert AI Research Scientist** in 2024. 
 Prior to that I obtained a PhD in Statistical Signal Processing from Telecom Paris (2018) and worked then for three years at EDF Lab Beijing, China, still as an AI Research Scientist.
 My research focus is on **Deep Learning for Time Series** data, with an emphasis on industrial applications in the power system.
 
-> Research Interests
+<h2>
+  <a href="{{ '/projects/' | relative_url }}" style="color: inherit">research interests</a>
+</h2>
 
  * **Deep Learning for Time Series**
  * **Time Series Foundation Models**, large scale pretraining and adaptation mechanisms
