@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2025-12-12'
+  last_updated: '2026-01-02'
 papers:
   95KPGacAAAAJ:2osOgNQ5qMEC:
     citations: 6
@@ -26,7 +26,7 @@ papers:
     title: "Traitement quantique des langues : \xE9tat de l\u2019art"
     year: '2023'
   95KPGacAAAAJ:WF5omc3nYNoC:
-    citations: 0
+    citations: 1
     title: A synthetic dataset of French electric load curves with temperature conditioning
     year: '2025'
   95KPGacAAAAJ:Y0pCki6q_DkC:
