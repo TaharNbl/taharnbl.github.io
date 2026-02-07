@@ -9,6 +9,8 @@ nav_order: 4
 
 #### Current
 
+  - **Amine Razig** (PhD student, 2025-2028), working on <em>Deep Learning for Spatio-Temporal Aggregation in Weather Forecasting</em>. Co-supervised with [Etienne Le Naour](https://etiennelnr.github.io/).
+  
   - [Gaspard Berthelier](https://github.com/3gaspo) (PhD student, 2025-2028), working on <em>Federated Learning for Time Series</em>. Co-supervised with [Etienne Le Naour](https://etiennelnr.github.io/).
 
 #### Past
