@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-02-16'
 papers:
   95KPGacAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Generative Approaches for the Synthesis of Process Structures
     year: '2022'
   95KPGacAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 10
     title: Towards Optimal District Heating Temperature Control in China with Deep Reinforcement Learning
     year: '2020'
   95KPGacAAAAJ:IjCSPb-OGe4C:
@@ -14,7 +14,7 @@ papers:
     title: "M\xE9thode de Monte Carlo \xE0 dynamique hamiltonienne pour estimation d'un mod\xE8le thermique de b\xE2timent"
     year: '2017'
   95KPGacAAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 17
     title: Applying the Hubbard-Stratonovich Transformation to Solve Scheduling Problems Under Inequality Constraints With Quantum Annealing
     year: '2021'
   95KPGacAAAAJ:UeHWp8X0CEIC:
@@ -58,7 +58,7 @@ papers:
     title: Are Time-Indexed Foundation Models the Future of Time Series Imputation?
     year: '2025'
   95KPGacAAAAJ:u-x6o8ySG0sC:
-    citations: 8
+    citations: 7
     title: Machine learning based design of a supercritical CO2 concentrating solar power plant
     year: '2019'
   95KPGacAAAAJ:u5HHmVD_uO8C:
