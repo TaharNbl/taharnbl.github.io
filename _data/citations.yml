@@ -1,6 +1,10 @@
 metadata:
-  last_updated: '2026-03-13'
+  last_updated: '2026-05-13'
 papers:
+  95KPGacAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: On the Role of Reversible Instance Normalization
+    year: '2026'
   95KPGacAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Generative Approaches for the Synthesis of Process Structures
