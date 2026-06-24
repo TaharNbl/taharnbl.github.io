@@ -1,26 +1,38 @@
 metadata:
-  last_updated: '2026-01-02'
+  last_updated: '2026-05-13'
 papers:
+  95KPGacAAAAJ:0EnyYjriUFMC:
+    citations: 0
+    title: On the Role of Reversible Instance Normalization
+    year: '2026'
   95KPGacAAAAJ:2osOgNQ5qMEC:
     citations: 6
     title: Generative Approaches for the Synthesis of Process Structures
     year: '2022'
   95KPGacAAAAJ:9yKSN-GCB0IC:
-    citations: 9
+    citations: 10
     title: Towards Optimal District Heating Temperature Control in China with Deep Reinforcement Learning
     year: '2020'
   95KPGacAAAAJ:IjCSPb-OGe4C:
     citations: 0
     title: "M\xE9thode de Monte Carlo \xE0 dynamique hamiltonienne pour estimation d'un mod\xE8le thermique de b\xE2timent"
     year: '2017'
+  95KPGacAAAAJ:Se3iqnhoufwC:
+    citations: 0
+    title: Investigating simple target-covariate relationships for Chronos-2 and TabPFN-TS
+    year: Unknown Year
   95KPGacAAAAJ:Tyk-4Ss8FVUC:
-    citations: 18
+    citations: 17
     title: Applying the Hubbard-Stratonovich Transformation to Solve Scheduling Problems Under Inequality Constraints With Quantum Annealing
     year: '2021'
   95KPGacAAAAJ:UeHWp8X0CEIC:
     citations: 0
     title: Identification of a thermal building model by learning the dynamics of the solar flux
     year: '2017'
+  95KPGacAAAAJ:UebtZRa9Y70C:
+    citations: 0
+    title: "Traitement quantique des langues: \xE9tat de l\u2019art [Quantum Natural Language Processing: a review]"
+    year: '2023'
   95KPGacAAAAJ:W7OEmFMy1HYC:
     citations: 0
     title: "Traitement quantique des langues : \xE9tat de l\u2019art"
@@ -49,6 +61,10 @@ papers:
     citations: 0
     title: "Intelligence artificielle pour la conception de mol\xE9cules et de proc\xE9d\xE9s: exp\xE9rimentations et discussion"
     year: '2022'
+  95KPGacAAAAJ:hqOjcs7Dif8C:
+    citations: 0
+    title: Are Time-Indexed Foundation Models the Future of Time Series Imputation?
+    year: '2025'
   95KPGacAAAAJ:qjMakFHDy7sC:
     citations: 0
     title: Building identification within a connected object ecosystem
@@ -58,7 +74,7 @@ papers:
     title: Are Time-Indexed Foundation Models the Future of Time Series Imputation?
     year: '2025'
   95KPGacAAAAJ:u-x6o8ySG0sC:
-    citations: 8
+    citations: 7
     title: Machine learning based design of a supercritical CO2 concentrating solar power plant
     year: '2019'
   95KPGacAAAAJ:u5HHmVD_uO8C:
